@@ -1,0 +1,23 @@
+.box{
+	min-height: 30px;
+	background-color: blue;
+	margin-bottom: 15px;
+}
+.content{
+	background-color: #ABB1BA;
+}
+.head{
+	margin: 25px 0;
+}
+.heading_text{
+	margin-bottom: 40px;
+}
+.inline_text{
+	background-color: #ABB1BA;
+}
+.image{
+	background-color: #F2F2F2;
+}
+.img-fluid{
+	margin-bottom: 10px;
+}
